@@ -10,5 +10,5 @@ csv module, datetime module, list comprehension
 #### 03-Analyzing_Thanksgiving_Dinner
 pandas module, Boolean filtering, DataFrames, Series, data analysis
 
-#### 04-Visualizing_Earnings_Based_on_College_Majors
+#### 04-Visualizing_College_Major_Earnings
 matplotlib module, scatter plots, histograms, boxplots, bar charts, data visualization
