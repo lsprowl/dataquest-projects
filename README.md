@@ -12,3 +12,6 @@ pandas module, Boolean filtering, DataFrames, Series, data analysis
 
 #### 04-Visualizing_College_Major_Earnings
 matplotlib module, scatter plots, histograms, boxplots, bar charts, data visualization
+
+#### 05-Visualizing_College_Degree_Gender_Gaps
+plot aesthetics, data visualization
